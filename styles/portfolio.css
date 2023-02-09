@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* HEader and navigations style */
+.nav-title{
+    font-weight: 880;
+    font-size: 45px;
+}
+.text-primary{
+    color: orange;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin:50px 200px;
+}
+nav li{
+    list-style: none;
+    margin-left: 50px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+.Hire-me{
+    
+    height: 64px;
+    background: #FD6E0A;
+    border-radius: 5px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+    border-style: none;
+    padding: 18px 35px;
+}
